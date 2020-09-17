@@ -1,5 +1,5 @@
 import curses, random
-
+# A comment in the clone to push holding valuable info
 screen  = curses.initscr()
 width   = screen.getmaxyx()[1]
 height  = screen.getmaxyx()[0]
