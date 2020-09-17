@@ -2,6 +2,7 @@
 import time
 import sys
 import os
+# Some new comments
 
 # Function for implementing the loading animation
 def load_animation():
